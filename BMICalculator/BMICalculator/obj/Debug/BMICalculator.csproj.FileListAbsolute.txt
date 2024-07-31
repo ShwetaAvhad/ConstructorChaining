@@ -1,0 +1,7 @@
+C:\Dotnet\18 Jul 2024\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Dotnet\18 Jul 2024\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Dotnet\18 Jul 2024\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Dotnet\18 Jul 2024\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+C:\Dotnet\18 Jul 2024\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Dotnet\18 Jul 2024\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Dotnet\18 Jul 2024\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
