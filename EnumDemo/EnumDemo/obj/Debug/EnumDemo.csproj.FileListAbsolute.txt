@@ -1,0 +1,7 @@
+C:\Dotnet\!9 Jul 2024\EnumDemo\EnumDemo\bin\Debug\EnumDemo.exe.config
+C:\Dotnet\!9 Jul 2024\EnumDemo\EnumDemo\bin\Debug\EnumDemo.exe
+C:\Dotnet\!9 Jul 2024\EnumDemo\EnumDemo\bin\Debug\EnumDemo.pdb
+C:\Dotnet\!9 Jul 2024\EnumDemo\EnumDemo\obj\Debug\EnumDemo.csproj.AssemblyReference.cache
+C:\Dotnet\!9 Jul 2024\EnumDemo\EnumDemo\obj\Debug\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Dotnet\!9 Jul 2024\EnumDemo\EnumDemo\obj\Debug\EnumDemo.exe
+C:\Dotnet\!9 Jul 2024\EnumDemo\EnumDemo\obj\Debug\EnumDemo.pdb
